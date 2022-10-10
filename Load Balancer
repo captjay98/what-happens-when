@@ -1,0 +1,4 @@
+A Load balancer as the name implies is used to balance load between servers,
+different algorithms can be used depending on needs,
+round robin is the most popular algorithm,
+it sends requests to the next server till it gets to the last and starts from the first server again.
